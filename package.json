@@ -1,0 +1,11 @@
+{
+  "name": "froggyfrog-membership",
+  "author": "Samuel Zuniga Vanoye",
+  "description": "A membership app",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt": "~0.4.5"
+  }
+}
